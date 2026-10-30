@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.npm-cache/
+backups/
+evidence/
+*.zip
+*.tar.gz
+.env
+.env.*
+!.env.example
+.sites-runtime/
+.sites-checkout*/
